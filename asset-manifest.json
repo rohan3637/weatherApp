@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rohan3637/weatherApp/static/css/main.50cb686b.chunk.css",
-    "main.js": "/rohan3637/weatherApp/static/js/main.90c1369b.chunk.js",
-    "main.js.map": "/rohan3637/weatherApp/static/js/main.90c1369b.chunk.js.map",
-    "runtime-main.js": "/rohan3637/weatherApp/static/js/runtime-main.131b134b.js",
-    "runtime-main.js.map": "/rohan3637/weatherApp/static/js/runtime-main.131b134b.js.map",
-    "static/js/2.5ba533a3.chunk.js": "/rohan3637/weatherApp/static/js/2.5ba533a3.chunk.js",
-    "static/js/2.5ba533a3.chunk.js.map": "/rohan3637/weatherApp/static/js/2.5ba533a3.chunk.js.map",
-    "index.html": "/rohan3637/weatherApp/index.html",
-    "static/css/main.50cb686b.chunk.css.map": "/rohan3637/weatherApp/static/css/main.50cb686b.chunk.css.map",
-    "static/js/2.5ba533a3.chunk.js.LICENSE.txt": "/rohan3637/weatherApp/static/js/2.5ba533a3.chunk.js.LICENSE.txt",
-    "static/media/hot.033aa1d0.png": "/rohan3637/weatherApp/static/media/hot.033aa1d0.png",
-    "static/media/map-pointer.b193453e.png": "/rohan3637/weatherApp/static/media/map-pointer.b193453e.png",
-    "static/media/sun.e8160910.png": "/rohan3637/weatherApp/static/media/sun.e8160910.png"
+    "main.css": "/weatherApp/static/css/main.50cb686b.chunk.css",
+    "main.js": "/weatherApp/static/js/main.90c1369b.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.90c1369b.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.4db85b4c.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.4db85b4c.js.map",
+    "static/js/2.5ba533a3.chunk.js": "/weatherApp/static/js/2.5ba533a3.chunk.js",
+    "static/js/2.5ba533a3.chunk.js.map": "/weatherApp/static/js/2.5ba533a3.chunk.js.map",
+    "index.html": "/weatherApp/index.html",
+    "static/css/main.50cb686b.chunk.css.map": "/weatherApp/static/css/main.50cb686b.chunk.css.map",
+    "static/js/2.5ba533a3.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.5ba533a3.chunk.js.LICENSE.txt",
+    "static/media/hot.033aa1d0.png": "/weatherApp/static/media/hot.033aa1d0.png",
+    "static/media/map-pointer.b193453e.png": "/weatherApp/static/media/map-pointer.b193453e.png",
+    "static/media/sun.e8160910.png": "/weatherApp/static/media/sun.e8160910.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.131b134b.js",
+    "static/js/runtime-main.4db85b4c.js",
     "static/js/2.5ba533a3.chunk.js",
     "static/css/main.50cb686b.chunk.css",
     "static/js/main.90c1369b.chunk.js"
